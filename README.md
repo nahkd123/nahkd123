@@ -2,7 +2,8 @@ Welcome to my GitHub profile! I don't have much stuff to share in here but whate
 
 ## Basic Info
 - Living somewhere in Hanoi, Vietnam.
-- Fabric modder at [MangoPlex](https://github.com/MangoPlex).
+- Fabric modder at [PhởMC](https://github.com/phomc).
+- I'm not sure about my role at [MangoPlex](https://github.com/MangoPlex) atm.
 - Tends to reinvent the wheel.
 
 ## Skills

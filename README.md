@@ -1,9 +1,11 @@
+![Profile banner](banner.png)
+
 Welcome to my GitHub profile! I don't have much stuff to share in here but whatever.
 
 ## Quick Links
-[GitHub](https://github.com/nahkd123) | [Twitter](https://twitter.com/nahkd123) | [Skills](#skills)
+[GitHub](https://github.com/nahkd123) | [Twitter](https://twitter.com/nahkd123)
 
-## Basic Info
+## General Info
 - Living somewhere in Hanoi, Vietnam.
 - Fabric modder at [PhởMC](https://github.com/phomc).
 - I'm not sure about my role at [MangoPlex](https://github.com/MangoPlex) atm.
@@ -49,8 +51,7 @@ _These are not verified by external source so don't take my words for it._
 - [Mixery](https://github.com/nahkd123/Mixery): Digital audio workspace that runs in your browser, so Chromebook users can brag about how their laptop is still useful. Don't have time to maintain it right now.
 - [Serarif](https://github.com/nahkd123/Serarif): Sans serif font. Basically my attempt to make the font that appears in my dream. Not perfect but I think it's decent.
 
-## Contact info
-- Email address: Clone any of my repository and look at my GPG signature for my email address. I only want to interact with real human and not with random bot that gathered my email address by crawling entire GitHub.
-- Twitter: see above ;)
-- GitHub: see above... again ;)
-
+## Contact
+- Email address: You can find my email address by looking at my GPG signature. I usually check my inbox everyday or two (or maybe longer, I don't know to be honest).
+- Twitter: Honestly I don't use Twitter much nowadays, but if you want, you can visit my Twitter profile with the link above.
+- GitHub: You can drop a message [here](https://github.com/nahkd123/nahkd123/issues). Note that everyone can see your message there so please avoid posting personal information.

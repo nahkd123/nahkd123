@@ -4,6 +4,6 @@
 
 [Missed the old profile banner?][3]
 
-[1]: ./special/halloween-2024/
+[1]: ./special/halloween-2024/README.md
 [2]: ./special/halloween-2024/krita%20project.kra
 [3]: ./archive/banner.png
